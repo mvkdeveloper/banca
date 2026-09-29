@@ -1,3 +1,10 @@
 {
-  "fechamentos": {}
+  "config": {
+    "bancaInicial": 50,
+    "metaDiaria": 50,
+    "stopLoss": 60,
+    "diaAtual": 1
+  },
+  "dias": {},
+  "atualizadoEm": null
 }
